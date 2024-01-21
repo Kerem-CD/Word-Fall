@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Match Up",
+    "id": 3,
+    "file":"./interactives/3"
+  },
+  {
+    "name": "Find the match",
+    "id": 46,
+    "file":"./interactives/46"
+  },
+  {
+    "name": "Gameshow quiz",
+    "id": 69,
+    "file":"./interactives/69"
+  },
+  {
+    "name": "Hangman",
+    "id": 73,
+    "file":"./interactives/73"
+  },
+  {
+    "name": "Matching pairs",
+    "id": 25,
+    "file":"./interactives/25"
+  },
+  {
+    "name": "Open the box",
+    "id": 30,
+    "file":"./interactives/30"
+  },
+  {
+    "name": "Quiz",
+    "id": 5,
+    "file":"./interactives/5"
+  },
+  {
+    "name": "Unjumble",
+    "id": 72,
+    "file":"./interactives/72"
+  },
+  {
+    "name": "Labeled Diagram",
+    "id": 22,
+    "file":"./interactives/22"
+  }
+]

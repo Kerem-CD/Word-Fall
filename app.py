@@ -28,4 +28,4 @@ def add():
     data = request.get_json()
     addentry(data['score'], data['time'], data['name'], data['activityId'], data['templateId'])
     return "OK"
-app.run(host='0.0.0.0', port=8080, debug=True)
+app.run()

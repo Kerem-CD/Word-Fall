@@ -1,15 +1,15 @@
 @import url('/fonts/GoogleSans-Regular.ttf');
 :root {
-    --darkest-red : #540804;
-    --darker-red : #81171B;
-    --dark-red : #AD2E24;
-    --red : #C75146;
-    --orange: #EA8C55;
+    --darkest-red : #545454;
+    --darker-red : #818181;
+    --dark-red : #ADADAD;
+    --red : #C7C7C7;
+    --orange: #EAEAEA;
 }
 body {
     background-color: var(--darkest-red);
     color: var(--orange);
-    font-family: 'Google Sans', sans-serif;
+    font-family: "Arial", sans-serif;
 }
 #logo {
     margin: 20px;
@@ -23,6 +23,13 @@ body {
     font-size: 50px;
     display: flex;
 
+}
+
+h2 {
+    margin: 20px;
+    font-size: 30px;
+    text-align: center;
+    
 }
 .question {
     margin: 20px;
@@ -61,7 +68,7 @@ body {
     margin: 0 auto;
 }
 .inpt{
-    font-family: Google Sans;
+    font-family: "Arial", sans-serif;
     border-radius: 10px;
     border: 2px solid var(--darker-red);
     width: 100%;
@@ -78,7 +85,7 @@ body {
 }
 #submit{
     color: white;
-    font-family: Google Sans;
+    font-family: "Arial", sans-serif;
     border-radius: 10px;
     border: 2px solid var(--darker-red);
     width: 20%;
